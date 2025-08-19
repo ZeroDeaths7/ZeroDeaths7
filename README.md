@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Creating a Python Library<br>👯 I’m looking to collaborate on Machine Learning projects<br>🌱 I’m currently learning Deep Learning<br>
+🔭 I’m currently working on Creating a Python Library<br>👯 I’m looking to collaborate on Machine Learning projects<br>🌱 I’m currently learning RAG and Agentic AI<br>
 
 
 ## 🌐 Socials:
